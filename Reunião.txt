@@ -1,0 +1,11 @@
+REUNIÃO DIÁRIA
+
+1. Tema
+
+2.Backlog ( lista de requisitos, contexto)
+
+3.Perfil individual (discussão, rotação)
+
+4.Ferramenta de gestão
+
+MODEO DE DADOS (1,n)
